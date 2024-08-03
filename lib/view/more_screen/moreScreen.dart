@@ -194,7 +194,7 @@ class _MoreScreenState extends State<MoreScreen> {
                                   fit: BoxFit.cover)),
                         ),
                         SizedBox(
-                          height: 50, // height of the divider
+                          height: 50, 
                           child: VerticalDivider(
                             color: Colors.grey,
                           ),
